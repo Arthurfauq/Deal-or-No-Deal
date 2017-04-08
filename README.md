@@ -12,3 +12,14 @@ Please check [this link](https://tomcat.apache.org/download-80.cgi) to download 
 To run the project, open Eclipse, import the project and create a new Apache Tomcat 8 server.
 
 Then run the project on the server.
+
+## Screenshots
+
+### Home page
+![Home page screenshot](https://github.com/arthurfauq/deal-or-no-deal/blob/master/screenshots/deal-or-no-deal-home.jpg)
+
+### Round page
+![Round page screenshot](https://github.com/arthurfauq/deal-or-no-deal/blob/master/screenshots/deal-or-no-deal-round.jpg)
+
+### Bank page
+![Bank page screenshot](https://github.com/arthurfauq/deal-or-no-deal/blob/master/screenshots/deal-or-no-deal-bank.jpg)
